@@ -13,6 +13,8 @@ Monitor Temperature and Humidity in NodeRED UI Dashboard using DHT11 with NodeMC
     ```
 
 ### Step 2: Hardware Schematic
+- Three pin DHT11
+<img src="./NodeMCU_DHT11.webp" width=40% height=40%>
 
 ### Step 3: Running the program
 - Copy the code to the Arduino IDE
