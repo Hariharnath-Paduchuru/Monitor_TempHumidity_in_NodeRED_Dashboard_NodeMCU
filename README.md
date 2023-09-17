@@ -39,5 +39,7 @@
 ```
 http://<your IP address>:1880/ui
 ```
-
+- Monitor the values in the Dashboard as below
+  
+<img src="./nodered-dashboard-humidity-temp.png" width=40% height=40%>
 
