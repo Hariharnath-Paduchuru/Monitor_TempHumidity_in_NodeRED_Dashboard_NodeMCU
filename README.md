@@ -3,6 +3,7 @@
 
 ## Flow diagram of the Project
 
+<img src="./nodemcu_nodered_dht11.svg" width=100% height=40%>
 
 ### Step 1: Install the Required Libraries
 - Open an Arduino IDE --> Tools --> Manage Libraries
